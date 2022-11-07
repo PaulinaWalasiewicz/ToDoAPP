@@ -4,6 +4,7 @@
     <string name="name_label">Nazwa</string>
     <string name="details_label">Szczegóły</string>
     <string name="done_label">Wykonane</string>
+    <string name="keep_it_button">Zachowaj</string>
 
 
 </resources>

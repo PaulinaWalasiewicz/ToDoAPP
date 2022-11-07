@@ -11,7 +11,7 @@ public class Task {
     private boolean done;
 
     public boolean isDone() {
-        return done;
+        return this.done;
     }
 
     public void setDone(boolean done) {
@@ -28,7 +28,7 @@ public class Task {
 
 
     public String getName() {
-        return name;
+        return this.name;
     }
 
     public void setName(String name) {
@@ -36,7 +36,7 @@ public class Task {
     }
 
     public Date getDate() {
-        return date;
+        return this.date;
     }
 
     public void setDate(Date date) {
